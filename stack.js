@@ -58,3 +58,10 @@ console.log(stck.size); // 3
 
 stck.push("value4");
 console.log(stck.pop()); // value4
+
+/*
+Insertion - O(1)
+Removal - O(1)
+Searching - O(n)
+Access - O(n)
+*/
