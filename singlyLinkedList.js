@@ -130,3 +130,10 @@ class SinglyLinkedList {
     return this;
   }
 }
+
+/*
+Insertion - O(1)
+Removal - O(n)
+Search - O(n)
+Access - O(n)
+*/
